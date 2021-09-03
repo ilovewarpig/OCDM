@@ -1,0 +1,136 @@
+ActivityName,ActivityID,ActivityType,Unit
+引言1,13404,video,1
+安装Python开发环境,13382,video,1
+练习-Hello World,13405,assignment,1
+讨论-引言,13406,discussion,1
+计算平均气温,13505,video,2
+练习-计算行程费用,13508,assignment,2
+练习讲解-计算行程费用,13506,video,2
+控制输出格式,13507,video,2
+练习-控制输出格式,13509,assignment,2
+练习讲解-身高的公/英制转换,13510,video,2
+不规则面积计算,13511,video,2
+练习-计算总面积,13512,assignment,2
+BMI计算-从键盘输入,13513,video,2
+练习-外部输入,13514,assignment,2
+BMI分段输出,13515,video,2
+练习-判断奇数或偶数,13516,assignment,2
+讨论-Python用作计算器,13517,discussion,2
+Python编程的基本套路,13383,video,3
+活动-编写温度转换程序,13384,assignment,3
+编写温度转换程序（一起动手编程序）,13385,video,3
+练习-输入姓名和年龄,13402,assignment,3
+练习-判断奇偶数,13403,assignment,3
+格式化输出,13414,document,3
+练习-检查密码字符串,13415,assignment,3
+检查密码练习讲解,13520,video,3
+活动-为温度转换程序增加功能,13386,assignment,3
+为温度转换程序增加功能（一起动手编程序）,13387,video,3
+PyCharm字体和PEP8格式,13416,video,3
+用PyCharm调试程序,13417,video,3
+了解：正则表达式检查字符串格式,13418,video,3
+讨论区1,13400,discussion,3
+存放集合数据——列表、元组、字典（一起动手编程）,13388,video,4
+练习-创建列表,13389,assignment,4
+练习-Tuple,13407,assignment,4
+练习-Tuple和List存放数据,13408,assignment,4
+练习-过滤List,13425,assignment,4
+练习-两个List的交集,13426,assignment,4
+练习-List Comprehension,13427,assignment,4
+随机生成10个年龄,13409,video,4
+练习-随机生成List数据,13410,assignment,4
+练习-多人猜数字游戏,13411,assignment,4
+猜数字游戏效果样例,13412,video,4
+讨论-List和Tuple,13413,discussion,4
+函数的作用,13419,video,5
+练习-旱季和雨季,13420,assignment,5
+函数实现分段统计年龄,13421,video,5
+练习-编写旱季/雨季函数,13422,assignment,5
+练习-取List的头和尾,13428,assignment,5
+练习-消除List重复项,13429,assignment,5
+Argument (函数参数),13423,video,5
+List作为函数参数,13424,video,5
+Hangman猜字游戏,13430,video,5
+练习-编写Hangman猜单词游戏,13431,assignment,5
+Hangman游戏升级,13432,video,5
+练习-从文件读入词汇,13433,assignment,5
+清理词汇,13434,video,5
+去除换行符,13435,video,5
+练习-去除文件中不可用的词汇,13436,assignment,5
+Hangman的猜测,13437,video,5
+练习-编写辅助猜单词的程序,13438,assignment,5
+讨论-函数,13439,discussion,5
+直方图（Bar Chart）,13441,video,6
+安装matplotlib,13519,video,6
+练习-第二次世界大战阵亡人数,13442,assignment,6
+练习-首字母单词数Bar Chart,13443,assignment,6
+散点图（Scatter Plot）,13444,video,6
+练习-绘制散点图,13445,assignment,6
+折线图（Line Plot）,13446,video,6
+练习-折线图,13447,assignment,6
+饼图（Pie Chart）,13448,video,6
+练习-绘制饼图,13451,assignment,6
+Histogram（条形分布图）,13449,video,6
+练习-Histogram看数据分布,13452,assignment,6
+pandas读取csv格式数据,13450,video,6
+练习-绘制某日气温和PM值的散点图,13453,assignment,6
+了解更多-中文显示,13454,video,6
+讨论-Matplotlib作图,13455,discussion,6
+练习-Histogram显示掷骰子的结果,13456,assignment,7
+用Histogram展示两个骰子之和,13457,video,7
+文件数据统计,13458,video,7
+练习-统计一个目录下的文件数量,13459,assignment,7
+按文件扩展名统计数量,13460,video,7
+练习-按文件扩展名统计文件数量,13461,assignment,7
+用Matplotlib显示文件数量,13462,video,7
+练习-用Bar Chart和Pie Chart，按扩展名展示文件数量,13463,assignment,7
+pandas统计文件数量,13464,video,7
+练习-用pandas的groupby统计文件数量,13465,assignment,7
+Matplotlib显示dataframe,13466,video,7
+微项目-图形化呈现文件所占空间,13467,video,7
+项目-图形显示各类文件所占容量,13468,assignment,7
+讨论-硬盘文件数据作图的讨论,13469,discussion,7
+问题背景和数据集,13470,video,8
+显示所有列,13471,video,8
+练习-加载数据集,13472,assignment,8
+哪类客户消费更多？,13473,video,8
+练习-交叉表汇总账单数量,13474,assignment,8
+多维数据作图,13475,video,8
+练习-图形显示交叉表数据,13476,assignment,8
+项目1- 小费一般多少比例？,13477,video,8
+sns.stripplot,13478,video,8
+项目-餐饮小费比例分析,13480,assignment,8
+项目2 – Titanic（泰坦尼克号的灾难）,13479,video,8
+项目-泰坦尼克乘客数据分析,13481,assignment,8
+了解更多-读取SQL Server数据库,13482,document,8
+讨论-交叉表,13483,discussion,8
+期末项目-用数据说故事,13484,assignment,8
+怎样让机器自动学习——极简理论,13392,video,9
+动手体验神经元网络（玩玩看）,13393,video,9
+构造神经元网络需要的软件工具,13394,video,9
+安装Tensorflow,13395,video,9
+构造神经元网络识别手写数字—准备数据（一起动手编程）,13396,video,9
+构建神经元网络模型（一起动手编程）,13397,video,9
+训练神经元网络（一起动手编程）,13398,video,9
+测试神经元网络模型（一起动手编程）,13399,video,9
+讨论区2,13401,discussion,9
+引言2,13485,video,10
+练习-用opencv打开图片,13486,assignment,10
+中心切割图片_Center Crop,13487,video,10
+练习-Center Crop,13488,assignment,10
+进一步处理图片,13489,video,10
+练习-黑白翻转处理,13490,assignment,10
+训练MNIST分类模型（DNN全连接）,13491,video,10
+练习-训练MNIST模型，避免过度拟合,13492,assignment,10
+识别手写数字,13493,video,10
+练习-用MNIST模型识别手写数字照片,13494,assignment,10
+抓取图片特征,13495,video,11
+练习-手动计算Convolution和Max Pooling,13496,assignment,11
+构造CNN神经元网络,13497,video,11
+练习-构造CNN网络,13498,assignment,11
+加载训练数据_训练CNN模型,13499,video,11
+练习-训练CNN模型,13500,assignment,11
+了解-GPU提高训练速度,13501,video,11
+测试CNN模型,13502,video,11
+练习-测试CNN模型,13503,assignment,11
+项目-CNN识别猫狗,13504,video,11
