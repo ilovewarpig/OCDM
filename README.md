@@ -6,4 +6,4 @@ Online learner cognitive disequilibrium modeling and recognition based on resour
 学习者于在线平台中产生的日志数据存储于在线学习系统的服务器中，包括学习者基本信息和学习过程中的点击流数据，例如对各类学习资源的访问时间戳、持续时间等。79名学习者在一个学期中共产生了20851条学习记录。<br/><br/>
 
 这些数据已经脱敏并开放，包括全体学习者的日志数据(course_log_data_anonymization.csv)、学习者自我报告记录(self_report_data.csv)、课程大纲(syllabus.csv)、持续型学习者在第2单元的日志数据(Unit2_Cluster1_log.csv)和策略型学习者在第2单元的日志数据（Unit2_Cluster2_log.csv）
-此外，我们也提供了360个预测学习者认知冲突的建模结果(model_result_cv5.csv)
+此外，我们也提供了用于预测模型的数据集(resource_access_seq_dataset.csv)和360个预测学习者认知冲突的建模结果(model_result_cv5.csv)
